@@ -10,18 +10,16 @@ $v_t^2 = \frac{mg}{k}$
 $kv_t^2 = mg$
 
 $k = \frac{mg}{v_t^2}$
-
+\n\n
 
 Since our item hit terminal velocity at sim time 0.503s, we can assume
 $v_{avg} \approx v_t$
-
+\n\n
 
 $V_{avg} = \frac{\Delta v}{\Delta t} = 2.597m/s$
 
 $k = \frac{mg}{(2.597m/s)^2} = 0.145kg/m$
-
-
-
+\n\n
 
 $\sum F = ma$
 
