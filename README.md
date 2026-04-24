@@ -44,6 +44,6 @@ $kv^2 - mg = ma$
 
 $\frac{kv^2}{m} - g = a$
 
-$a(v) = \frac{0.145kg/m * v^2}{m} - g$
+$a(v) = \frac{0.145kg/m * v^2}{0.1kg} - 9.81m/s^2$
 
 
