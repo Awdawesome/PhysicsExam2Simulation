@@ -3,6 +3,7 @@ Simulation for the egg drop for Exam 2 in Phys 1610
 
 
 Mathematic Derivation:
+
 $v_t = \sqrt{\frac{mg}{k}}$
 
 $v_t^2 = \frac{mg}{k}$
