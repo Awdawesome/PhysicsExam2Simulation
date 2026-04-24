@@ -1,6 +1,12 @@
 # PhysicsExam2Simulation
 Simulation for the egg drop for Exam 2 in Phys 1610
 
+Parameters:
+Weight of Contraption: 5g
+Weight of egg: 95g
+Time of fall: 3.87s
+Height of drop: 10.05m
+
 
 Mathematic Derivation:
 
